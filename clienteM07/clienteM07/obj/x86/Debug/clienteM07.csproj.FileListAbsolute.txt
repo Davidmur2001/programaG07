@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\so\M07\clienteM07\clienteM07\bin\Debug\clienteM07.exe
+C:\Users\User\Desktop\so\M07\clienteM07\clienteM07\bin\Debug\clienteM07.pdb
+C:\Users\User\Desktop\so\M07\clienteM07\clienteM07\obj\x86\Debug\clienteM07.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\so\M07\clienteM07\clienteM07\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\User\Desktop\so\M07\clienteM07\clienteM07\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\User\Desktop\so\M07\clienteM07\clienteM07\obj\x86\Debug\clienteM07.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\so\M07\clienteM07\clienteM07\obj\x86\Debug\clienteM07.exe
+C:\Users\User\Desktop\so\M07\clienteM07\clienteM07\obj\x86\Debug\clienteM07.pdb
